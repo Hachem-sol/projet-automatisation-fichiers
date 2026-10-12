@@ -1,0 +1,22 @@
+# Fichiers temporaires Python
+
+**pycache**/
+*.py[cod]
+
+# Cache des tests
+
+.pytest_cache/
+
+# Environnement virtuel
+
+.venv/
+venv/
+
+# Journaux d'execution
+
+logs/
+
+# Dossiers de test contenant des fichiers generes
+
+fichiers_test/
+tests_fichiers/
